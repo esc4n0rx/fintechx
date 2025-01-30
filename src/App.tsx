@@ -45,7 +45,7 @@ function App() {
   }, []);
 
   const handleTelegramClick = () => {
-    window.open('https://t.me/fintechx', '_blank');
+    window.open('https://t.me/fintechxy', '_blank');
   };
 
   return (
